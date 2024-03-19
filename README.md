@@ -1,1 +1,1 @@
-# Curso-QA
+# QA
